@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hello%2C+World!+I'm+Imasha+%F0%9F%91%8B;Full-Stack+Software+Engineer+%26+Innovator+%F0%9F%92%BB;Undergraduate+%40+University+of+Kelaniya+%F0%9F%87%B1%F0%9F%87%B0;Specialized+in+Scalable+Web+Apps+%26+TypeScript+%E2%9A%A1;Bridging+Algorithms+with+Real-World+Impact+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Imasha+%F0%9F%91%8B;Data+Science+%26+AI+Enthusiast+%F0%9F%A4%96;Business+Analyst+%7C+Project+Manager+%7C+ML+Solutions+%F0%9F%93%8A;Bridging+Data%2C+Strategy+%26+Execution+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,30 +15,34 @@
 
 ---
 
-## 💡 About Me
+## 🧠 About Me
 
-<img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Tech GIF"/>
 
 ```python
 class Imasha:
     def __init__(self):
         self.name        = "Imasha Karunathilaka"
-        self.role        = "Full-Stack Engineer & Tech Innovator"
-        self.institution = "University of Kelaniya, Sri Lanka 🇱🇰"
-        self.core_stack  = {
-            "frontend": ["React", "TypeScript", "JavaScript", "HTML5/CSS3"],
-            "backend":  ["Node.js", "Express", "Python", "Socket.io"],
-            "databases": ["MySQL", "MongoDB"],
-            "tooling":   ["Docker", "Git", "Postman", "Linux"]
+        self.location    = "Sri Lanka 🇱🇰"
+        self.university  = "University of Kelaniya"
+        self.roles       = [
+            "Data Science & AI Enthusiast",
+            "Business Analyst",
+            "Project Manager"
+        ]
+        self.skillset    = {
+            "analytics_ai":  ["Python", "Pandas", "NumPy", "Scikit-learn", "EDA", "ML Modeling"],
+            "business_pm":   ["Requirement Engineering", "Agile/Scrum", "Process Optimization", "Jira"],
+            "bi_reporting":  ["Power BI", "SQL", "Dashboarding", "Data Storytelling"]
         }
-        self.current_focus = [
-            "Building high-throughput full-stack architectures",
-            "Designing real-time event-driven web applications",
-            "Exploring AI workflow automation and algorithmic data models"
+        self.passions    = [
+            "Translating complex business needs into data-driven AI solutions",
+            "Leading agile tech projects from concept to impactful delivery",
+            "Harnessing machine learning & analytics for strategic decision-making"
         ]
 
     def motto(self):
-        return "Engineering elegant solutions to complex real-world challenges. 💡"
+        return "Turn data into insight, insight into strategy, and strategy into impact. 🚀"
 
 me = Imasha()
 print(me.motto())
@@ -48,33 +52,29 @@ print(me.motto())
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🛠️ Skills & Tech Stack
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Data Science & Machine Learning**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Business Analysis & Project Management**  
+![Agile](https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-4A154B?style=flat-square&logo=scrumalliance&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Databases & BI Tools**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**Databases & DevOps**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Data Science & AI**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
