@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Imashaidk&color=38bdf8&style=flat-square&label=Profile+Views)](https://github.com/Imashaidk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Imasha%20Karunathilaka-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imasha-karunathilaka/)
-[![Email](https://img.shields.io/badge/Email-karunat--im23099%40stu.kln.ac.lk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karunat-im23099@stu.kln.ac.lk)
+[![Email](https://img.shields.io/badge/Email-imashaidk2003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imashaidk2003@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Sri%20Lanka-0D9488?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Sri+Lanka)
 
 </div>
@@ -150,7 +150,7 @@ print(me.motto())
 I am always open to discussing new opportunities, data science & AI collaborations, business analysis, or agile project management initiatives!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imasha-karunathilaka/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karunat-im23099@stu.kln.ac.lk)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imashaidk2003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imashaidk)
 
 </div>
