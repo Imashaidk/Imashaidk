@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Imasha+%F0%9F%91%8B;Data+Science+%26+AI+Enthusiast+%F0%9F%A4%96;Business+Analyst+%7C+Project+Manager+%7C+ML+Solutions+%F0%9F%93%8A;Bridging+Data%2C+Strategy+%26+Execution+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Imasha+%F0%9F%91%8B;Undergraduate+%40+University+of+Kelaniya+%F0%9F%87%B1%F0%9F%87%B0;Data+Science+%26+AI+Enthusiast+%F0%9F%A4%96;Business+Analyst+%7C+Project+Manager+%7C+ML+Solutions+%F0%9F%93%8A;Bridging+Data%2C+Strategy+%26+Execution+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
